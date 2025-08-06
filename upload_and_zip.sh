@@ -5,8 +5,7 @@ cd ~/superAI
 zip -r ~/superAI.zip ./*
 
 # === Upload ke GitHub ===
-cd ~/superAI
-git add super.sh upload_and_zip.sh BypassWiFi
+git add .
 git commit -m "Final Update: Bypass WiFi, AI Monitoring, DNS over HTTPS"
 git push origin main --force
 
