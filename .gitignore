@@ -1,0 +1,8 @@
+upload_github.sh
+fix_and_upload.sh
+*.zip
+*.log
+*.bak
+__pycache__/
+node_modules/
+.env
